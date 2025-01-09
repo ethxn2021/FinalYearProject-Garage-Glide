@@ -32,11 +32,11 @@
     "mock-aws-s3": "^4.0.2",
     "mysql2": "^3.6.2",
     "nock": "13.3.8",
-    "react": "^18.3.1",
+    "react": "^18.2.0",
     "react-big-calendar": "^1.10.1",
     "react-credit-cards-2": "^1.0.2",
     "react-datepicker": "^4.25.0",
-    "react-dom": "^18.3.1",
+    "react-dom": "^18.2.0",
     "react-overlays": "^5.2.1",
     "react-toastify": "^10.0.4",
     "ws": "^8.14.2"

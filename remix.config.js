@@ -6,7 +6,7 @@ module.exports = {
   tailwind: true,
   // Remove cssBundle temporarily:
   // plugins: [cssBundle()],
-  serverDependenciesToBundle: ["@popperjs/core", "react-overlays"],
+  serverDependenciesToBundle: ["@popperjs/core", "react-overlays", "axios", "mapbox-gl"],
   serverModuleFormat: "cjs",
   assetsBuildDirectory: "public/build",
   publicPath: "/build/",
