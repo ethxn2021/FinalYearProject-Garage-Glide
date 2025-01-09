@@ -8,6 +8,8 @@ module.exports = {
   // plugins: [cssBundle()],
   serverDependenciesToBundle: ["@popperjs/core", "react-overlays"],
   serverModuleFormat: "cjs",
+  assetsBuildDirectory: "public/build",
+  publicPath: "/build/",
   future: {
     v2_dev: true,
     v2_errorBoundary: true,
